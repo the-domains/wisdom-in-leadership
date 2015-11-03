@@ -1,0 +1,23 @@
+name: Wisdom in Leadership
+favicon: null
+layout_spectrum: 0.7169580664485693
+typography_spectrum: 0.4342878134921193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7888446389697492
+  lightness: 0.1004543686285615
+  saturation: 0.15974876680411398
+  rhythmicContrast: 0.40760666667483747
+purpose: []
